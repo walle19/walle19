@@ -35,7 +35,7 @@ Sharing back to community with blogs on [Medium](https://medium.com/@nikhilwali1
 ## ✏️TODO ...
 <p>Looking forward to learn and get hands on different tech stack</p>
 <li>Github Actions</li>
-<li>Contribute towards a open source</li>
+<li>Contribute towards an open source</li>
 <li>and more</li>
 
 ## 📫 How to reach me: ...
