@@ -1,9 +1,9 @@
 ![bg_image](https://github.com/walle19/walle19/blob/main/kevin-bhagat-zNRITe8NPqY-unsplash.jpg)
 <p align="right">Photo by <a href="https://unsplash.com/@kevnbhagat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Bhagat</a> on <a href="https://unsplash.com/s/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 
-# Hi, I'm Nikhil! 👋
+# Hi, I'm Nikhil! 👋 ![](https://komarev.com/ghpvc/?username=walle19)
 
-## 💬 Who am I?
+## 💬 Who am I? 
 <ul>Running on a journey from iOS developer to full-stack developer with passion to learn different tech stack on the way and share the experience</ul>
 <p align="center">
   <a href="https://github.com/walle19">
