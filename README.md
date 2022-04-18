@@ -75,7 +75,8 @@ Sharing back to community with blogs on [Medium](https://medium.com/@nikhilwali1
 
 ## ✏️TODO ...
 <p>Looking forward to learn and get hands on different tech stack</p>
-<li>Github Actions</li>
+<li>Github Pages</li>
+<li>Rollup - create and publish npm package</li>
 <li>Contribute towards an open source</li>
 <li>and more</li>
 
